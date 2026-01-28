@@ -7,6 +7,7 @@ from src.models.user import User
 from src.models.message import Message
 from src.storage import storage
 
+
 ROOMS = ["lobby", "general", "random"]
 
 # Заставляем работать пути к статике
